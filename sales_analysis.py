@@ -1,0 +1,1 @@
+path= '../data/electronics_sales.csv'
